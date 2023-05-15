@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, meu nome é Letícia 😁
+## Bem-vindo(a) ao meu perfil! Meu nome é Letícia 😁
 
  <div>
    <a href="https://github.com/leticiamfsc">
@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me siga nas redes abaixo!
+  ### Minhas redes sociais:
  
 <div> 
   <a href="https://instagram.com/leticiamfsc_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
